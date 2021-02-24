@@ -1,1 +1,2 @@
-My projects and various things will go here.
+#index.md
+(nothing here yet)
